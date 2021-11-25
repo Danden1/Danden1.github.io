@@ -204,7 +204,7 @@ footer-hover-col: "#0085A1"
 
 navbar-links:
   Category:
-    - Study: "/category/AI"
+    - AI: "/category/AI"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
